@@ -1,45 +1,41 @@
 # Hi there, I'm Jhaymes! 👋 
+**Full-Stack Developer | Mobile Environment Engineer | Cloud & AI Enthusiast**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Status-Graduating%20BSIT%20Student-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Specialty-Mobile%20Web%20Development-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-OJT--Ready%202027-00FF95?style=for-the-badge&logoColor=0D1111" />
+  <img src="https://img.shields.io/badge/Specialty-Android--Based%20Engineering-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Environment-Termux%20%26%20Linux-yellow?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-### 📱 The Android Coder
-I am an aspiring **Full-Stack Web Developer** with a unique workflow: I build, test, and deploy complex systems **entirely using my Android device**. I leverage tools like **Termux** and **Acode** to prove that great software can be engineered from anywhere.
+### 📱 The Android Architect
+I am a **BSIT Student** specializing in high-performance digital systems. My development philosophy is built on **technical resourcefulness**: I engineer, debug, and deploy complex full-stack applications **entirely within an Android environment**. 
+
+By mastering **Termux (Linux CLI)** and **Acode**, I have proven that production-grade software can be built from the palm of your hand. I focus on backend efficiency, seamless cloud integration, and accessible UI/UX design.
 
 ---
 
-### 🛠️ Tech Stack & Tools
-<p align="left">
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  
-  <!-- Backend & DB -->
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
-  
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/termux-%23000000.svg?style=for-the-badge&logo=termux&logoColor=white" />
-</p>
+### 🛠️ Technical Arsenal
+
+| Category | Technologies |
+| --- | --- |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white) |
+| **Backend** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) ![Java](https://img.shields.io/badge/-Java_Native-ED8B00?logo=openjdk&logoColor=white) |
+| **Database** | ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) |
+| **Workflow** | ![Termux](https://img.shields.io/badge/-Termux-000000?logo=termux&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05033?logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux_CLI-FCC624?logo=linux&logoColor=black) |
 
 ---
 
-### 🚀 Featured Project: INTELLIFIT
-**AI-Powered Home Workout Recommendation System**
-*Capstone Project for San Pedro College of Business Administration (SPCBA)*
-- Engineered a full-stack system on Android OS.
-- Integrated Flask (Python) with Firebase Firestore.
-- [View my Live Portfolio](https://jhaymesharoldbaguio.github.io/portfolio-JHB/)
+### 🚀 Key Projects & Case Studies
+- **INTELLIFIT:** AI-Driven Recommendation Engine for varsity athletes (Flask/Firestore).
+- **AGELESS CARE:** Native Android healthcare solution for senior citizens (Java Native).
+- **AG BOXING GYM:** Real-time cloud-based inventory synchronization system.
+- **LONGBU:** 3D Horror environment developed with Unity & C# scripting.
+
+👉 **[View Full Interactive Portfolio](https://jhaymesharoldbaguio.github.io/portfolio-JHB/)**
 
 ---
 
-### 📊 GitHub Stats
+### 📊 System Analytics
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=jhaymesharoldbaguio&show_icons=true&theme=tokyonight" alt="Jhaymes Stats" height="150" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhaymesharoldbaguio&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
@@ -47,6 +43,9 @@ I am an aspiring **Full-Stack Web Developer** with a unique workflow: I build, t
 
 ---
 
-### 📫 Connect with me:
+### 📫 Connect / Establish Connection:
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jhaymes-harold-baguio-643a6030b)
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/share/1BF6a258YF/)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/YOUR_LINKEDIN_HERE)
+[<img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:23100182@spcba.edu.ph)
+
+*"The best way to predict the future is to code it."*
